@@ -118,6 +118,7 @@ hasilnya :
 ![Flowchart]()
 
 **code program lengkap:**
+```C++
 #include<iostream>
 using namespace std;
 
