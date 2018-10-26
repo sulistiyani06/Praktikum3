@@ -115,7 +115,7 @@ hasilnya :
 10. Lalu, END.
 
 **Flowchart Program**
-![Flowchart]()
+![Flowchart](https://raw.githubusercontent.com/sulistiyani06/praktikum3/master/latihan%203/Flowchart3.png)
 
 **code program lengkap:**
 ```C++
@@ -152,4 +152,4 @@ int main()
 ```
 
 hasilnya :
-![ing]()
+![ing](https://raw.githubusercontent.com/sulistiyani06/praktikum3/master/latihan%203/hasil3.png)
